@@ -1,0 +1,15 @@
+E:\IT\GIT\C#\2826\seminar7\task51\bin\Debug\net6.0\task51.exe
+E:\IT\GIT\C#\2826\seminar7\task51\bin\Debug\net6.0\task51.deps.json
+E:\IT\GIT\C#\2826\seminar7\task51\bin\Debug\net6.0\task51.runtimeconfig.json
+E:\IT\GIT\C#\2826\seminar7\task51\bin\Debug\net6.0\task51.dll
+E:\IT\GIT\C#\2826\seminar7\task51\bin\Debug\net6.0\task51.pdb
+E:\IT\GIT\C#\2826\seminar7\task51\obj\Debug\net6.0\task51.csproj.AssemblyReference.cache
+E:\IT\GIT\C#\2826\seminar7\task51\obj\Debug\net6.0\task51.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\GIT\C#\2826\seminar7\task51\obj\Debug\net6.0\task51.AssemblyInfoInputs.cache
+E:\IT\GIT\C#\2826\seminar7\task51\obj\Debug\net6.0\task51.AssemblyInfo.cs
+E:\IT\GIT\C#\2826\seminar7\task51\obj\Debug\net6.0\task51.csproj.CoreCompileInputs.cache
+E:\IT\GIT\C#\2826\seminar7\task51\obj\Debug\net6.0\task51.dll
+E:\IT\GIT\C#\2826\seminar7\task51\obj\Debug\net6.0\refint\task51.dll
+E:\IT\GIT\C#\2826\seminar7\task51\obj\Debug\net6.0\task51.pdb
+E:\IT\GIT\C#\2826\seminar7\task51\obj\Debug\net6.0\task51.genruntimeconfig.cache
+E:\IT\GIT\C#\2826\seminar7\task51\obj\Debug\net6.0\ref\task51.dll
